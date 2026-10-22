@@ -64,11 +64,24 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 [▶ 시연 영상](https://drive.google.com/file/d/1D_GWcWMXCCZPWjGZEGMwXTTCsHGzVDn1/view)
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/WhySongSerious/SLUDGE"><img src="assets/sludge.jpg" width="100%"></a>
 
-### More
-- **[SLUDGE](https://github.com/WhySongSerious/SLUDGE)** — GPS 위치 판정과 AR 평면을 쓰는 광교호수공원 환경 AR 콘텐츠 · [📄 포스터](https://drive.google.com/file/d/1Ug26IbHkNln5CfJF3lK8nF6aed4d1sc4/view)
-- **[BoxBox](https://github.com/12e0hw/MSE_BoxBox)** — 2인 로컬 협동 물류 게임, 대형 박스 협동 운반 구현 (팀 프로젝트)
+**SLUDGE** · `Unity` `AR Foundation` `GPS`
+
+광교호수공원 현장을 방문해 즐기는 환경 AR 콘텐츠. 기획·스토리부터 GPS 위치 판정, AR 평면 처리, 씬 흐름까지 개발 전반을 맡았습니다.<br>
+[📄 프로젝트 포스터](https://drive.google.com/file/d/1Ug26IbHkNln5CfJF3lK8nF6aed4d1sc4/view)
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/12e0hw/MSE_BoxBox"><img src="assets/boxbox.jpg" width="100%"></a>
+
+**BoxBox** · `Unity` `C#`
+
+2인 로컬 협동 물류 게임. 플레이어 조작과 스태미나, 날씨 연동 장애물, 두 플레이어가 대형 박스를 함께 드는 협동 운반을 구현했습니다.
+</td>
+</tr>
+</table>
 
 <br>
 
