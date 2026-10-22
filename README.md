@@ -12,7 +12,7 @@ G29 휠, 스마트폰 AR, VR HMD, DualSense까지 — 입력 장치마다 다른
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/ProjectSoullike/tree/integration/s1-combat-arena"><img src="assets/project-soullike.jpg" width="100%"></a>
+<a href="https://github.com/WhySongSerious/ProjectSoullike/tree/integration/s1-combat-arena"><img src="assets/project-soullike-prototype.jpg" width="100%"></a>
 
 **ProjectSoullike** · `Unity 6` `DualSense` · 진행 중
 
