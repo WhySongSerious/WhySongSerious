@@ -2,8 +2,7 @@
 
 ### 현실과 화면이 맞물리는 순간, 몰입을 설계하는 개발자
 
-핸들을 쥔 손, 방바닥 위의 AR, 눈앞의 VR, 손 안의 패드, 벽을 채운 미디어월.<br>
-현실의 서로 다른 접점을 코드로 화면과 이어 왔습니다.
+손끝에서 시작된 감각이 화면 너머의 세계로 이어지도록.
 
 <p>
 <img src="https://img.shields.io/badge/AJOU_UNIV.-Digital_Media_%2B_AI_Convergence-10121a?style=for-the-badge&labelColor=2a2f45" alt="Ajou Univ. Digital Media + AI Convergence">
