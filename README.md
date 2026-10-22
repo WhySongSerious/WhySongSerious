@@ -91,19 +91,22 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 
 ## Coursework
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/ComputerGraphics-OpenGL"><img src="assets/cg-progress.jpg" width="100%"></a>
-</td>
-<td width="50%" valign="top">
+아주대학교 디지털미디어학과 · 인공지능융합학과에서 들은 주요 수업과, 각 수업에서 직접 구현해 본 내용입니다.<br>
+<sub>수업 과제 코드는 교수님 제공 기본 코드를 바탕으로 작성되어 공개하지 않습니다.</sub>
 
-**ComputerGraphics-OpenGL** · `C++` `OpenGL` `GLSL`
-
-삼각형 하나에서 시작해 메시·카메라·조명·텍스처·범프 매핑을 거쳐 **섀도 매핑과 소프트 섀도**까지, 렌더링 파이프라인을 36단계로 직접 쌓아 올린 컴퓨터그래픽스 과제 모음입니다.
-</td>
-</tr>
-</table>
+| 분야 | 수업 | 구현하며 익힌 것 |
+| --- | --- | --- |
+| **Real-time Rendering** | 컴퓨터그래픽스 | OpenGL·GLSL로 렌더링 파이프라인을 36단계로 쌓아 올림 — 뷰·투영 변환, 오빗 카메라, Phong 조명·감마 보정, 텍스처·범프 매핑, FBO 섀도 매핑 → PCF·소프트 섀도 |
+| **Animation** | 애니메이션이론 | 스플라인 보간, BVH 모션 데이터 재생, 천(Cloth) 시뮬레이션 |
+| **Image Processing** | 영상처리 | 미디언 필터링, 디컨볼루션, 영역 채우기 (OpenCV) |
+| **XR** | Immersive Media Programming | AR 이미지·평면·얼굴 트래킹, 조명 추정·오클루전 / VR 로코모션, 컨트롤러 햅틱, 레버·소켓 퍼즐 상호작용 |
+| **Game Engine** | 게임엔진프로그래밍 · 메타버스프로그래밍 | Unity 게임 제작과 튜토리얼 설계, 메타버스 콘텐츠의 몰입 요소 분석·기획 |
+| **3D Modeling** | 3D그래픽디자인 | Maya 하드서피스·유기체 모델링, UV·렌더링, 얼굴 모델링 |
+| **Software Engineering** | Media Software Engineering · 객체지향프로그래밍 | Java 객체지향 설계, Spring MVC·REST, 디자인 패턴, 마일스톤 기반 팀 개발 |
+| **Systems** | 운영체제 · 컴퓨터시스템 | C 소켓 클라이언트·서버, 생산자-소비자·Readers-Writers 동기화 |
+| **Algorithms** | 자료구조 · 알고리즘 | 그리디, 백트래킹, 분기 한정법, 최단 경로 |
+| **Data & ML** | 데이터사이언스개론 · 기계학습기초 · 실전기계학습 | 게임 선택 로그를 LSTM 오토인코더 + K-means로 군집화해 플레이어 유형 분석, 회귀·분류 실습 |
+| **Math** | 선형대수 · 이산수학 · 확률및통계 | 그래픽스·ML의 기반 수학 |
 
 <br>
 
@@ -118,6 +121,7 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 
 ## Activities & Awards
 
+- 💻 **코딩트레이너** — 컴퓨터프로그래밍및실습, 수강생 약 50명 코드 리뷰·질문 답변·채점 보조 (2026)
 - 🎮 게임 개발 동아리 **TML 회장** — Unity·C/C++ 스터디, 팀 프로젝트, 데모데이 운영 (2026)
 - 🏆 **모각소 3회 수상** — Unity ML-Agents (2025 하계 장려상) · Unreal Engine (2025 동계 우수상) · Unity·DualSense 게임 제작 (2026 하계 장려상)
 - 🏃 러닝동아리 **ARC 부회장** — 정동아리 승격, 회원 150명 이상 성장 · 동아리 콘테스트 은상 (2026)
