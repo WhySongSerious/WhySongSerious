@@ -88,6 +88,23 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 </tr>
 </table>
 
+
+## Coursework
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/WhySongSerious/ComputerGraphics-OpenGL"><img src="assets/cg-progress.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+
+**ComputerGraphics-OpenGL** · `C++` `OpenGL` `GLSL`
+
+삼각형 하나에서 시작해 메시·카메라·조명·텍스처·범프 매핑을 거쳐 **섀도 매핑과 소프트 섀도**까지, 렌더링 파이프라인을 36단계로 직접 쌓아 올린 컴퓨터그래픽스 과제 모음입니다.
+</td>
+</tr>
+</table>
+
 <br>
 
 ## Tech
