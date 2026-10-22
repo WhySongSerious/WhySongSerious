@@ -1,6 +1,7 @@
 <img src="assets/banner-immersive.jpg" alt="송재혁 Song Jaehyuk — Total Media Lover · IMMERSIVE" width="100%">
 
-손에 쥔 장치와 화면이 맞물려 사용자가 그 세계에 빠져드는 순간을 만드는 개발자입니다.
+### 현실과 화면이 맞물리는 순간, 몰입을 설계하는 개발자
+
 G29 휠, 스마트폰 AR, VR HMD, DualSense까지 — 입력 장치마다 다른 감각을 코드로 연결해 왔습니다.
 
 **아주대학교** 디지털미디어학과 · 인공지능융합학과 복수전공 (2027.02 졸업 예정) &nbsp;|&nbsp; [📁 전체 포트폴리오 자료 (Google Drive)](https://drive.google.com/drive/folders/1qN_I8oP3dLOj-LXz7hJ7DIgn3Ujz-bwU)
