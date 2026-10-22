@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="송재혁 — 몰입을 코드로 만듭니다" width="100%">
+<img src="assets/banner-immersion.jpg" alt="송재혁 — 몰입을 코드로" width="100%">
 
 손에 쥔 장치와 화면이 맞물려 사용자가 그 세계에 빠져드는 순간을 만드는 개발자입니다.
 G29 휠, 스마트폰 AR, VR HMD, DualSense까지 — 입력 장치마다 다른 감각을 코드로 연결해 왔습니다.
@@ -16,7 +16,8 @@ G29 휠, 스마트폰 AR, VR HMD, DualSense까지 — 입력 장치마다 다른
 
 **ProjectSoullike** · `Unity 6` `DualSense` · 진행 중
 
-3인 팀 소울라이크 전투 데모. **팀장**으로 이슈·스프린트·통합 브랜치를 운영하며, 3단 콤보 판정, 락온, SphereCast 3인칭 카메라, 키보드·패드 통합 입력을 구현하고 있습니다. **🏆 2026 하계 모각소 장려상**
+3인 팀 소울라이크 전투 데모. **팀장**으로 이슈·스프린트·통합 브랜치를 운영하며, 3단 콤보 판정, 락온, SphereCast 3인칭 카메라, 키보드·패드 통합 입력을 구현하고 있습니다. **🏆 2026 하계 모각소 장려상**<br>
+[▶ 프로토타입 영상](https://drive.google.com/file/d/1MY2WfQkTSvCHqQLoKLFPLNJx8iV0jvy9/view)
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/WhySongSerious/GyoAJung_TrafficQuest"><img src="assets/traffic-quest.jpg" width="100%"></a>
