@@ -2,9 +2,14 @@
 
 ### 현실과 화면이 맞물리는 순간, 몰입을 설계하는 개발자
 
-G29 휠, 스마트폰 AR, VR HMD, DualSense까지 — 입력 장치마다 다른 감각을 코드로 연결해 왔습니다.
+핸들을 쥔 손, 방바닥 위의 AR, 눈앞의 VR, 손 안의 패드, 벽을 채운 미디어월.<br>
+현실의 서로 다른 접점을 코드로 화면과 이어 왔습니다.
 
-**아주대학교** 디지털미디어학과 · 인공지능융합학과 복수전공 (2027.02 졸업 예정) &nbsp;|&nbsp; [📁 전체 포트폴리오 자료 (Google Drive)](https://drive.google.com/drive/folders/1qN_I8oP3dLOj-LXz7hJ7DIgn3Ujz-bwU)
+<p>
+<img src="https://img.shields.io/badge/AJOU_UNIV.-Digital_Media_%2B_AI_Convergence-10121a?style=for-the-badge&labelColor=2a2f45" alt="Ajou Univ. Digital Media + AI Convergence">
+<img src="https://img.shields.io/badge/GRADUATION-2027.02-10121a?style=for-the-badge&labelColor=2a2f45" alt="Graduation 2027.02">
+<a href="https://drive.google.com/drive/folders/1qN_I8oP3dLOj-LXz7hJ7DIgn3Ujz-bwU"><img src="https://img.shields.io/badge/PORTFOLIO-Google_Drive-ff8a58?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2a2f45" alt="Portfolio on Google Drive"></a>
+</p>
 
 <br>
 
