@@ -1,58 +1,87 @@
-# 송재혁 · WhySongSerious
+<img src="assets/banner.png" alt="송재혁 — 몰입을 코드로 만듭니다" width="100%">
 
-손에 쥔 장치와 화면이 맞물려 사용자가 그 세계에 빠져드는 **몰입**을 코드로 만드는 개발자입니다.
-게임, XR, 미디어아트까지 G29 휠, 스마트폰 AR, VR HMD, DualSense 등 다양한 입력 장치와 화면을 연결해 왔습니다.
+손에 쥔 장치와 화면이 맞물려 사용자가 그 세계에 빠져드는 순간을 만드는 개발자입니다.
+G29 휠, 스마트폰 AR, VR HMD, DualSense까지 — 입력 장치마다 다른 감각을 코드로 연결해 왔습니다.
 
-아주대학교 디지털미디어학과 · 인공지능융합학과 복수전공 (2027.02 졸업 예정)
+**아주대학교** 디지털미디어학과 · 인공지능융합학과 복수전공 (2027.02 졸업 예정) &nbsp;|&nbsp; [📁 전체 포트폴리오 자료 (Google Drive)](https://drive.google.com/drive/folders/1qN_I8oP3dLOj-LXz7hJ7DIgn3Ujz-bwU)
+
+<br>
 
 ## Featured Projects
 
-### [ProjectSoullike](https://github.com/WhySongSerious/ProjectSoullike/tree/integration/s1-combat-arena) · 진행 중
-Unity 6 기반 3인 팀 소울라이크 전투 데모. **팀장**
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/WhySongSerious/ProjectSoullike/tree/integration/s1-combat-arena"><img src="assets/project-soullike.jpg" width="100%"></a>
 
-- **담당:** 플레이어 전투 — 3단 콤보 입력·판정 구간, 중복 타격 방지, SphereCast 3인칭 카메라, 락온, 키보드·마우스/DualSense 입력(Input System)
-- **팀 운영:** GitHub 이슈·주간 스프린트, 기능 브랜치 → 통합 브랜치 검토·병합
-- **다음 목표:** 회피·스태미나, 보스전 흐름, 전투 기록 기반 ML 동적 난이도
+**ProjectSoullike** · `Unity 6` `DualSense` · 진행 중
 
-### [Traffic Quest](https://github.com/WhySongSerious/GyoAJung_TrafficQuest)
-Logitech G29 휠·페달로 조작하는 Unity 운전 시뮬레이터. 아주대학교 파란학기 팀 프로젝트 (2024.09–12)
+3인 팀 소울라이크 전투 데모. **팀장**으로 이슈·스프린트·통합 브랜치를 운영하며, 3단 콤보 판정, 락온, SphereCast 3인칭 카메라, 키보드·패드 통합 입력을 구현하고 있습니다.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/WhySongSerious/GyoAJung_TrafficQuest"><img src="assets/traffic-quest.jpg" width="100%"></a>
 
-- **담당:** 팀원과 함께 휠·페달 입력 정규화와 WheelCollider 차량 제어 · 메인 메뉴·게임 선택·로딩 씬 흐름 · 페달 연동 엔진음과 G29 버튼 기반 방향지시등 사운드
+**Traffic Quest** · `Unity` `Logitech G29`
 
-### [Traumas VR](https://github.com/ssp31n/IMP_VR_Team1)
-영화관·학교·낚시터·지하철 4개 스테이지의 Unity VR 공포게임. 팀 프로젝트 (2025.03–06)
+G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 정규화와 WheelCollider 차량 제어를 만들고, UI 흐름과 페달 연동 엔진음·방향지시등 사운드를 맡았습니다.<br>
+[📄 프로젝트 포스터](https://drive.google.com/file/d/1h9MDdBxNJWCKT6favhQOwuQrftxAiqkT/view)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ssp31n/IMP_VR_Team1"><img src="assets/traumas-vr.jpg" width="100%"></a>
 
-- **담당:** 영화관 스테이지 — XR Socket 퍼즐, HingeJoint 레버 씬 전환, NavMesh 좀비 추적 · 전체 스테이지 빌드 연결과 오프닝·엔딩
+**Traumas VR** · `Unity` `XR Interaction Toolkit` `Oculus`
 
-### [This is Our Home](https://github.com/YoonByungSun/IMP_AR_Team1)
-바닥 평면 위에 게임 공간을 세우고 내려다보며 플레이하는 Unity AR 게임. 팀 프로젝트 (2025.03–06)
+4개 스테이지 VR 공포게임. 영화관 스테이지의 소켓 퍼즐, 레버 씬 전환, NavMesh 좀비 추적을 구현하고 전체 스테이지를 하나의 빌드로 연결했습니다.<br>
+[▶ 시연 영상](https://drive.google.com/file/d/1X247S16CohOtJ4z3uRoTRNnZgT2b79CI/view)
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/YoonByungSun/IMP_AR_Team1"><img src="assets/this-is-our-home.jpg" width="100%"></a>
 
-- **담당:** 평면 기반 시점 아이디어 제안 · 캐릭터 애니메이션 · 씬별 BGM·효과음 오디오 매니저 · 스프레이 아이템
+**This is Our Home** · `Unity` `AR Foundation`
 
-### [A/JUNCTION: 공통좌표](https://github.com/WhySongSerious/AJunction_MediaArt)
-아주대학교 중앙도서관 미디어월(5200×1664)을 위한 코드 기반 미디어아트. 개인 작업
+바닥 평면 위에 게임 공간을 세워 내려다보며 즐기는 AR 게임. 1인칭 AR 대신 이 시점을 제안했고, 캐릭터 애니메이션·오디오 매니저·아이템을 맡았습니다.<br>
+[▶ 시연 영상](https://drive.google.com/file/d/1fkFn2PpRyHN7C3ggGESzZlO32mgwLhum/view)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/WhySongSerious/AJunction_MediaArt"><img src="assets/a-junction.jpg" width="100%"></a>
 
-- **담당:** 기획 · 모션 설계 · Python/Manim 구현 · 렌더링
-- **수상:** 제1회 중앙도서관 미디어아트 영상 공모전 우수상 (2026.09)
+**A/JUNCTION: 공통좌표** · `Python` `Manim` · 개인 작업
 
-## More
+중앙도서관 미디어월(5200×1664)을 위한 코드 기반 미디어아트. 13개 학문을 서로 다른 움직임으로 표현했습니다. **🏆 제1회 중앙도서관 미디어아트 영상 공모전 우수상**<br>
+[▶ 작품 영상](https://drive.google.com/file/d/1Rsv2LDvIe85XjjAcHICKJDetsxXIYXUX/view)
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/WhySongSerious/AICAP1_ADHDGame"><img src="assets/forgotten-constellation.jpg" width="100%"></a>
 
-| 프로젝트 | 내용 |
+**잊혀진 별자리** · `Unity` `ML-Agents`
+
+플레이 기록으로 난이도를 자동 조절하는 반응 게임 프로토타입. 성공률 70%를 목표로 하는 보상 설계와 자동 플레이 봇으로 Agent를 학습시켰습니다.<br>
+[▶ 시연 영상](https://drive.google.com/file/d/1D_GWcWMXCCZPWjGZEGMwXTTCsHGzVDn1/view)
+</td>
+</tr>
+</table>
+
+### More
+- **[SLUDGE](https://github.com/WhySongSerious/SLUDGE)** — GPS 위치 판정과 AR 평면을 쓰는 광교호수공원 환경 AR 콘텐츠 · [📄 포스터](https://drive.google.com/file/d/1Ug26IbHkNln5CfJF3lK8nF6aed4d1sc4/view)
+- **[BoxBox](https://github.com/12e0hw/MSE_BoxBox)** — 2인 로컬 협동 물류 게임, 대형 박스 협동 운반 구현 (팀 프로젝트)
+
+<br>
+
+## Tech
+
+| | |
 | --- | --- |
-| [SLUDGE](https://github.com/WhySongSerious/SLUDGE) | GPS 위치 판정과 AR 평면을 쓰는 장소 기반 환경 콘텐츠 (Unity, AR Foundation) |
-| [잊혀진 별자리](https://github.com/WhySongSerious/AICAP1_ADHDGame) | ML-Agents로 성공률 70% 근처를 유지하도록 난이도를 조절하는 반응 게임 프로토타입 |
-| [BoxBox](https://github.com/12e0hw/MSE_BoxBox) | 2인 로컬 협동 물류 게임 — 플레이어 조작, 대형 박스 협동 운반 (팀 프로젝트) |
+| **Engine** | Unity · C# · Input System · Animator · NavMesh &nbsp;/&nbsp; Unreal Engine (학습) |
+| **Device · XR** | Logitech G29 SDK · DualSense · AR Foundation · XR Interaction Toolkit |
+| **Language** | C# · C/C++ · Python |
+| **More** | Unity ML-Agents · Manim · Git/GitHub |
 
-## Skills
+## Activities & Awards
 
-| 분야 | 사용 경험 |
-| --- | --- |
-| 게임·인터랙션 | Unity · C# · Input System · Animator · NavMesh |
-| 입력 장치·XR | Logitech G29 SDK · DualSense · AR Foundation · XR Interaction Toolkit |
-| 언어 | C# · C/C++(알고리즘 풀이, 스터디) · Python |
-| 그 밖에 | Unreal Engine 학습 · Unity ML-Agents · Manim · Git/GitHub |
-
-## Activities
-
-- 게임 개발 동아리 **TML** 회장 — Unity·C/C++ 스터디, 팀 프로젝트, 데모데이 운영 (2026)
-- 모각소 수상 3회 — Unity ML-Agents(2025 하계 장려상), Unreal Engine(2025 동계 우수상), Unity·DualSense 게임 제작(2026 하계 장려상)
+- 🎮 게임 개발 동아리 **TML 회장** — Unity·C/C++ 스터디, 팀 프로젝트, 데모데이 운영 (2026)
+- 🏆 **모각소 3회 수상** — Unity ML-Agents (2025 하계 장려상) · Unreal Engine (2025 동계 우수상) · Unity·DualSense 게임 제작 (2026 하계 장려상)
+- 🏃 러닝동아리 **ARC 부회장** — 정동아리 승격, 회원 150명 이상 성장 · 동아리 콘테스트 은상 (2026)
