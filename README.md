@@ -1,4 +1,4 @@
-<img src="assets/banner-immersion.jpg" alt="송재혁 — 몰입을 코드로" width="100%">
+<img src="assets/banner-card.jpg" alt="송재혁 Song Jaehyuk — Total Media Lover" width="100%">
 
 손에 쥔 장치와 화면이 맞물려 사용자가 그 세계에 빠져드는 순간을 만드는 개발자입니다.
 G29 휠, 스마트폰 AR, VR HMD, DualSense까지 — 입력 장치마다 다른 감각을 코드로 연결해 왔습니다.
