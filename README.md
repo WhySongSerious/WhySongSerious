@@ -17,11 +17,11 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/ProjectSoullike/tree/integration/s1-combat-arena"><img src="assets/project-soullike-prototype.jpg" width="100%"></a>
+<a href="https://github.com/WhySongSerious/Masterless-TombOfTheGuardian"><img src="assets/masterless-title.jpg" width="100%"></a>
 
-**ProjectSoullike** · `Unity 6` `DualSense` · 진행 중
+**수호자의 무덤 Masterless** · `Unity 6` `DualSense` `ML-Agents` · 2026.11
 
-3인 팀 소울라이크 전투 데모. **팀장**으로 이슈·스프린트·통합 브랜치를 운영하며, 3단 콤보 판정, 락온, SphereCast 3인칭 카메라, 키보드·패드 통합 입력을 구현하고 있습니다. **🏆 2026 하계 모각소 장려상**<br>
+타락한 스승과 겨루는 3인 팀 소울라이크 보스전. **팀장**으로 통합·일정을 맡고, 패링·반격·커맨드 공격 등 플레이어 전투, 2페이즈 보스, 블루투스 DualSense 진동, **PPO로 학습한 보스 디렉터**와 점수·등급 시스템을 구현했습니다. **🏆 2026 하계 모각소 장려상**<br>
 [▶ 프로토타입 영상](https://drive.google.com/file/d/1MY2WfQkTSvCHqQLoKLFPLNJx8iV0jvy9/view)
 </td>
 <td width="50%" valign="top">
