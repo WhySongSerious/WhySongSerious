@@ -84,7 +84,7 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 **BoxBox** · `Unity` `C#`
 
 2인 로컬 협동 물류 게임(4인 팀). 플레이어 조작과 스태미나, 소화기로 끄는 불·감속 물웅덩이 장애물, 두 플레이어가 큰 박스를 함께 드는 협동 운반을 구현했습니다.<br>
-[▶ 시연 영상](https://youtu.be/iQzGJ9OX12g)
+[▶ 트레일러](https://www.youtube.com/watch?v=9fjjmCRjM68) (0:00–1:52) · [시연 영상](https://youtu.be/iQzGJ9OX12g)
 </td>
 </tr>
 </table>
