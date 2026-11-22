@@ -17,82 +17,83 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/Masterless-TombOfTheGuardian"><img src="assets/masterless-title.jpg" width="100%"></a>
+<a href="https://drive.google.com/file/d/13aL4C5A8cJc4hHiqXbdEsOoQpcKvt0mG/view"><img src="assets/showcase-masterless.gif" width="100%" alt="수호자의 무덤 2페이즈 보스전 플레이"></a>
 
-**수호자의 무덤 Masterless** · `Unity 6` `DualSense` `ML-Agents` · 2026.08 –
+### 수호자의 무덤 Masterless
+`Unity 6` `DualSense` `ML-Agents` · 3인 팀 · **팀장** · 2026.08 –
 
-난이도 메뉴 대신 보스가 플레이어에게 맞춰 가는 3인 팀 소울라이크 보스전. **팀장**으로 통합·일정을 맡고, 패링·약점 반격·커맨드 공격 등 플레이어 전투와 타격감, 동적 밸런싱(강화학습 PPO 보스 디렉터 + 로지스틱 회귀 재도전 보정), 블루투스 DualSense 진동을 구현했습니다. **🏆 2026 하계 모각소 장려상**<br>
-[▶ 플레이 트레일러](https://drive.google.com/file/d/13aL4C5A8cJc4hHiqXbdEsOoQpcKvt0mG/view) · [프로토타입 영상](https://drive.google.com/file/d/1MY2WfQkTSvCHqQLoKLFPLNJx8iV0jvy9/view)
+타락한 스승과 겨루는 3인칭 소울라이크 보스전. 난이도 메뉴 대신 보스가 플레이어에게 맞춰 갑니다.
+
+- 패링·약점 반격·커맨드 공격 등 플레이어 전투와 애니메이션·VFX·타격감
+- 동적 밸런싱: 판 안에서는 강화학습(PPO) 보스 디렉터, 판 사이에는 로지스틱 회귀 재도전 보정
+- 블루투스 DualSense 진동, 일정·우선순위·통합과 PR 기반 협업 운영
+
+**🏆 2026 하계 모각소 장려상**<br>
+[▶ 플레이 트레일러](https://drive.google.com/file/d/13aL4C5A8cJc4hHiqXbdEsOoQpcKvt0mG/view) · [프로토타입 영상](https://drive.google.com/file/d/1MY2WfQkTSvCHqQLoKLFPLNJx8iV0jvy9/view) · [소개 저장소](https://github.com/WhySongSerious/Masterless-TombOfTheGuardian)
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/GyoAJung_TrafficQuest"><img src="assets/traffic-quest.jpg" width="100%"></a>
+<a href="https://www.youtube.com/watch?v=9fjjmCRjM68"><img src="assets/showcase-boxbox.jpg" width="100%" alt="BoxBox 트레일러"></a>
 
-**Traffic Quest** · `Unity` `Logitech G29`
+### BoxBox
+`Unity` `C#` · 4인 팀 · 미디어소프트웨어공학 · 2026.03 – 06
 
-G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 정규화와 WheelCollider 차량 제어를 만들고, UI 흐름과 페달 연동 엔진음·방향지시등 사운드를 맡았습니다.<br>
-[📄 프로젝트 포스터](https://drive.google.com/file/d/1h9MDdBxNJWCKT6favhQOwuQrftxAiqkT/view)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/ssp31n/IMP_VR_Team1"><img src="assets/traumas-vr.jpg" width="100%"></a>
+컨베이어에서 나오는 구호 물자 박스를 제한 시간 안에 맞는 트럭에 싣는 2D 탑다운 2인 로컬 협동 게임.
 
-**Traumas VR** · `Unity` `XR Interaction Toolkit` `Oculus`
+- 플레이어 조작: 이동·대시·스태미나, 박스 들기·내려놓기, 방향별 애니메이션
+- 큰 박스 2인 협동 운반: 박스와 두 플레이어를 묶어 이동하고, 셋 중 하나라도 막히면 함께 정지
+- 장애물 동작: 소화기로 꺼야 지나가는 불, 밟으면 느려지는 물웅덩이
 
-4개 스테이지 VR 공포게임. 영화관 스테이지의 소켓 퍼즐, 레버 씬 전환, NavMesh 좀비 추적을 구현하고 전체 스테이지를 하나의 빌드로 연결했습니다.<br>
-[▶ 트레일러](https://drive.google.com/file/d/1X247S16CohOtJ4z3uRoTRNnZgT2b79CI/view)
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/YoonByungSun/IMP_AR_Team1"><img src="assets/this-is-our-home.jpg" width="100%"></a>
-
-**This is Our Home** · `Unity` `AR Foundation`
-
-바닥 평면 위에 게임 공간을 세워 내려다보며 즐기는 AR 게임. 1인칭 AR 대신 이 시점을 제안했고, 캐릭터 애니메이션·오디오 매니저·아이템을 맡았습니다.<br>
-[▶ 트레일러·플레이 영상](https://drive.google.com/file/d/1fkFn2PpRyHN7C3ggGESzZlO32mgwLhum/view)
+<sub>Spring 기반 서버·리더보드, 컨베이어·트럭, 날씨별 장애물 생성은 팀원 담당</sub><br>
+[▶ 트레일러](https://www.youtube.com/watch?v=9fjjmCRjM68) <sub>(0:00–1:52)</sub> · [시연 영상](https://youtu.be/iQzGJ9OX12g) · [팀 저장소](https://github.com/12e0hw/MSE_BoxBox)
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/AJunction_MediaArt"><img src="assets/a-junction.jpg" width="100%"></a>
+<a href="https://drive.google.com/file/d/1X247S16CohOtJ4z3uRoTRNnZgT2b79CI/view"><img src="assets/showcase-traumas.jpg" width="100%" alt="Traumas VR 트레일러"></a>
 
-**A/JUNCTION: 공통좌표** · `Python` `Manim` · 개인 작업
+### Traumas VR
+`Unity` `XR Interaction Toolkit` · 4인 팀 · 몰입형미디어프로그래밍 · 2025.03 – 06
 
-중앙도서관 미디어월(5200×1664)을 위한 코드 기반 미디어아트. 13개 학문을 서로 다른 움직임으로 표현했습니다. **🏆 제1회 중앙도서관 미디어아트 영상 공모전 우수상**<br>
-[▶ 작품 영상](https://drive.google.com/file/d/1Rsv2LDvIe85XjjAcHICKJDetsxXIYXUX/view)
+네 개의 공포 스테이지로 이루어진 VR 공포게임. 컨트롤러로 물건을 잡아 퍼즐을 풀고, 쫓아오는 좀비를 피해 다음 공간으로 넘어갑니다.
+
+- 영화관 스테이지: XR 소켓 퍼즐, 레버(HingeJoint)를 당기면 넘어가는 씬 전환
+- NavMesh 좀비 추적: 10m 안에 들어오면 플레이어를 쫓고 추적 BGM 재생
+- 4개 스테이지를 하나의 빌드로 연결, 오프닝·엔딩 씬
+
+[▶ 트레일러](https://drive.google.com/file/d/1X247S16CohOtJ4z3uRoTRNnZgT2b79CI/view) · [YouTube](https://www.youtube.com/watch?v=Em7-O-0m7ao) <sub>(0:00–1:46)</sub> · [팀 저장소](https://github.com/ssp31n/IMP_VR_Team1)
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/AICAP1_ADHDGame"><img src="assets/forgotten-constellation.jpg" width="100%"></a>
+<a href="https://drive.google.com/file/d/1fkFn2PpRyHN7C3ggGESzZlO32mgwLhum/view"><img src="assets/showcase-this-is-our-home.jpg" width="100%" alt="This is Our Home 트레일러"></a>
 
-**잊혀진 별자리** · `Unity` `ML-Agents`
+### This is Our Home
+`Unity` `AR Foundation` · 4인 팀 · 몰입형미디어프로그래밍 · 2025
 
-플레이 기록으로 난이도를 자동 조절하는 반응 게임 프로토타입. 성공률 70%를 목표로 하는 보상 설계와 자동 플레이 봇으로 Agent를 학습시켰습니다.<br>
-[▶ 시연 영상](https://drive.google.com/file/d/1D_GWcWMXCCZPWjGZEGMwXTTCsHGzVDn1/view)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/WhySongSerious/SLUDGE"><img src="assets/sludge.jpg" width="100%"></a>
+방바닥 평면 위에 게임 공간을 세우고, 작은 영웅이 잠든 사람을 지키는 모바일 AR 디펜스 게임.
 
-**SLUDGE** · `Unity` `AR Foundation` `GPS`
+- 1인칭 AR 대신 바닥을 내려다보는 시점을 제안
+- 캐릭터 이동 방향·트리거 애니메이션
+- 씬별 오디오 매니저, 스프레이 아이템
 
-광교호수공원 현장을 방문해 즐기는 환경 AR 콘텐츠. 기획·스토리부터 GPS 위치 판정, AR 평면 처리, 씬 흐름까지 개발 전반을 맡았습니다.<br>
-[📄 프로젝트 포스터](https://drive.google.com/file/d/1Ug26IbHkNln5CfJF3lK8nF6aed4d1sc4/view)
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/12e0hw/MSE_BoxBox"><img src="assets/boxbox.jpg" width="100%"></a>
-
-**BoxBox** · `Unity` `C#`
-
-2인 로컬 협동 물류 게임(4인 팀). 플레이어 조작과 스태미나, 소화기로 끄는 불·감속 물웅덩이 장애물, 두 플레이어가 큰 박스를 함께 드는 협동 운반을 구현했습니다.<br>
-[▶ 트레일러](https://www.youtube.com/watch?v=9fjjmCRjM68) (0:00–1:52) · [시연 영상](https://youtu.be/iQzGJ9OX12g)
+[▶ 트레일러·플레이 영상](https://drive.google.com/file/d/1fkFn2PpRyHN7C3ggGESzZlO32mgwLhum/view) · [YouTube](https://www.youtube.com/watch?v=z-pV-MaLJg8) <sub>(0:00–1:40)</sub> · [팀 저장소](https://github.com/YoonByungSun/IMP_AR_Team1)
 </td>
 </tr>
 </table>
 
-**More** &nbsp;·&nbsp; **멍멍전선 2077** `Unity 6` `2D` — 게임엔진프로그래밍 4인 팀. 낮에 자원을 모으고 밤에 강아지 부대로 로봇을 막는 디펜스 게임에서, 제시 문장을 5초 안에 타이핑하면 강화된 강아지가 소환되는 타이핑 소환과 원거리·범위 공격·주기적 무적 등 강아지 타입별 전투, 로봇 HP바를 구현했습니다. [▶ 플레이 영상](https://drive.google.com/file/d/1cP-GZUmtW8tdyOifEUJn3dGBOk0w0ctD/view)
+## More Projects
 
+| | 프로젝트 | 무엇을 만들었나 |
+| --- | --- | --- |
+| <img src="assets/traffic-quest.jpg" width="120"> | **Traffic Quest**<br>`Unity` `Logitech G29`<br><sub>3인 팀 · 파란학기 · 2024</sub> | G29 휠·페달로 수원 도로를 달리며 교통법규를 익히는 운전 시뮬레이터. 입력 정규화와 WheelCollider 차량 제어(팀원과 공동), 페달 연동 엔진음·방향지시등 사운드, UI 흐름<br>[저장소](https://github.com/WhySongSerious/GyoAJung_TrafficQuest) · [포스터](https://drive.google.com/file/d/1h9MDdBxNJWCKT6favhQOwuQrftxAiqkT/view) |
+| <img src="assets/sludge.jpg" width="120"> | **SLUDGE**<br>`Unity` `AR Foundation` `GPS`<br><sub>메타버스프로그래밍 · 2024</sub> | 광교호수공원 현장에서 즐기는 스토리 AR 게임. 기획·스토리, GPS 위치 판정, AR 평면 처리, 씬 흐름<br>[저장소](https://github.com/WhySongSerious/SLUDGE) · [포스터](https://drive.google.com/file/d/1Ug26IbHkNln5CfJF3lK8nF6aed4d1sc4/view) |
+| <img src="assets/a-junction.jpg" width="120"> | **A/JUNCTION: 공통좌표**<br>`Python` `Manim`<br><sub>개인 작업 · 2026</sub> | 중앙도서관 미디어월(5200×1664)용 코드 기반 미디어아트. 13개 학문을 서로 다른 움직임으로 표현. **🏆 미디어아트 영상 공모전 우수상**<br>[저장소](https://github.com/WhySongSerious/AJunction_MediaArt) · [▶ 영상](https://drive.google.com/file/d/1Rsv2LDvIe85XjjAcHICKJDetsxXIYXUX/view) |
+| <img src="assets/forgotten-constellation.jpg" width="120"> | **잊혀진 별자리**<br>`Unity` `ML-Agents` | 플레이 기록으로 난이도를 조절하는 반응 게임 프로토타입. 성공률 70% 목표 보상 설계, 자동 플레이 봇으로 Agent 학습<br>[저장소](https://github.com/WhySongSerious/AICAP1_ADHDGame) · [▶ 영상](https://drive.google.com/file/d/1D_GWcWMXCCZPWjGZEGMwXTTCsHGzVDn1/view) |
+| <img src="assets/dog-frontline.jpg" width="120"> | **멍멍전선 2077**<br>`Unity 6` `2D`<br><sub>4인 팀 · 게임엔진프로그래밍 · 2025</sub> | 낮엔 자원을 모으고 밤엔 강아지 부대로 로봇을 막는 디펜스. 5초 타이핑 소환, 강아지 타입별 전투(원거리·범위·주기적 무적), 로봇 HP바<br>[▶ 플레이 영상](https://drive.google.com/file/d/1cP-GZUmtW8tdyOifEUJn3dGBOk0w0ctD/view) |
 
-## Coursework
+<br>
+
+<details>
+<summary><b>Coursework</b> — 수업에서 직접 구현해 본 것</summary>
+<br>
 
 아주대학교 디지털미디어학과 · 인공지능융합학과에서 들은 주요 수업과, 각 수업에서 직접 구현해 본 내용입니다.
 
@@ -110,7 +111,7 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 | **Data & ML** | 데이터사이언스개론 · 기계학습기초 · 실전기계학습 | 게임 선택 로그를 LSTM 오토인코더 + K-means로 군집화해 플레이어 유형 분석, 회귀·분류 실습 |
 | **Math** | 선형대수 · 이산수학 · 확률및통계 | 그래픽스·ML의 기반 수학 |
 
-<br>
+</details>
 
 ## Tech
 
