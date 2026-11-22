@@ -19,10 +19,10 @@
 <td width="50%" valign="top">
 <a href="https://github.com/WhySongSerious/Masterless-TombOfTheGuardian"><img src="assets/masterless-title.jpg" width="100%"></a>
 
-**수호자의 무덤 Masterless** · `Unity 6` `DualSense` `ML-Agents` · 2026.11
+**수호자의 무덤 Masterless** · `Unity 6` `DualSense` `ML-Agents` · 2026.08 –
 
-타락한 스승과 겨루는 3인 팀 소울라이크 보스전. **팀장**으로 통합·일정을 맡고, 패링·반격·커맨드 공격 등 플레이어 전투, 2페이즈 보스, 블루투스 DualSense 진동, **PPO로 학습한 보스 디렉터**와 점수·등급 시스템을 구현했습니다. **🏆 2026 하계 모각소 장려상**<br>
-[▶ 프로토타입 영상](https://drive.google.com/file/d/1MY2WfQkTSvCHqQLoKLFPLNJx8iV0jvy9/view)
+난이도 메뉴 대신 보스가 플레이어에게 맞춰 가는 3인 팀 소울라이크 보스전. **팀장**으로 통합·일정을 맡고, 패링·약점 반격·커맨드 공격 등 플레이어 전투와 타격감, 동적 밸런싱(강화학습 PPO 보스 디렉터 + 로지스틱 회귀 재도전 보정), 블루투스 DualSense 진동을 구현했습니다. **🏆 2026 하계 모각소 장려상**<br>
+[▶ 플레이 트레일러](https://drive.google.com/file/d/13aL4C5A8cJc4hHiqXbdEsOoQpcKvt0mG/view) · [프로토타입 영상](https://drive.google.com/file/d/1MY2WfQkTSvCHqQLoKLFPLNJx8iV0jvy9/view)
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/WhySongSerious/GyoAJung_TrafficQuest"><img src="assets/traffic-quest.jpg" width="100%"></a>
@@ -126,4 +126,4 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 - 🎮 게임 개발 동아리 **TML 회장** — Unity·C/C++ 스터디, 팀 프로젝트, 데모데이 운영 (2026)
 - 🏆 **모각소 3회 수상** — Unity ML-Agents (2025 하계 장려상) · Unreal Engine (2025 동계 우수상) · Unity·DualSense 게임 제작 (2026 하계 장려상)
 - 📚 **모각소 C++ 알고리즘 스터디 수료** — 3인 팀 대표. 자료구조·알고리즘 강의 진도에 맞춰 백준 문제를 풀고 서로의 코드를 리뷰 (2024 동계, 10회)
-- 🏃 러닝동아리 **ARC 부회장** — 정동아리 승격, 회원 150명 이상 성장 · 동아리 콘테스트 은상 (2026)
+- 🏃 러닝동아리 **ARC 부회장** — 정동아리 승격, 회원 150명 이상 성장 · 동아리 콘테스트 은상 (2025–2026)
