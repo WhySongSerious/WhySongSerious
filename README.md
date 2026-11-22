@@ -48,7 +48,7 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 **This is Our Home** · `Unity` `AR Foundation`
 
 바닥 평면 위에 게임 공간을 세워 내려다보며 즐기는 AR 게임. 1인칭 AR 대신 이 시점을 제안했고, 캐릭터 애니메이션·오디오 매니저·아이템을 맡았습니다.<br>
-[▶ 시연 영상](https://drive.google.com/file/d/1fkFn2PpRyHN7C3ggGESzZlO32mgwLhum/view)
+[▶ 트레일러·플레이 영상](https://www.youtube.com/watch?v=z-pV-MaLJg8) (0:00–1:40)
 </td>
 </tr>
 <tr>
