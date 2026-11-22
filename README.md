@@ -40,7 +40,7 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 **Traumas VR** · `Unity` `XR Interaction Toolkit` `Oculus`
 
 4개 스테이지 VR 공포게임. 영화관 스테이지의 소켓 퍼즐, 레버 씬 전환, NavMesh 좀비 추적을 구현하고 전체 스테이지를 하나의 빌드로 연결했습니다.<br>
-[▶ 트레일러](https://www.youtube.com/watch?v=Em7-O-0m7ao) (0:00–1:46) · [시연 영상](https://drive.google.com/file/d/1X247S16CohOtJ4z3uRoTRNnZgT2b79CI/view)
+[▶ 트레일러](https://drive.google.com/file/d/1X247S16CohOtJ4z3uRoTRNnZgT2b79CI/view)
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/YoonByungSun/IMP_AR_Team1"><img src="assets/this-is-our-home.jpg" width="100%"></a>
@@ -48,7 +48,7 @@ G29 휠·페달로 조작하는 운전 시뮬레이터. 팀원과 함께 입력 
 **This is Our Home** · `Unity` `AR Foundation`
 
 바닥 평면 위에 게임 공간을 세워 내려다보며 즐기는 AR 게임. 1인칭 AR 대신 이 시점을 제안했고, 캐릭터 애니메이션·오디오 매니저·아이템을 맡았습니다.<br>
-[▶ 트레일러·플레이 영상](https://www.youtube.com/watch?v=z-pV-MaLJg8) (0:00–1:40)
+[▶ 트레일러·플레이 영상](https://drive.google.com/file/d/1fkFn2PpRyHN7C3ggGESzZlO32mgwLhum/view)
 </td>
 </tr>
 <tr>
